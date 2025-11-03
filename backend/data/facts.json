@@ -1,0 +1,21 @@
+{
+    "full_name": "Ji Young Lee",
+    "name": "Alyssa",
+    "current_role": "Graduate Student",
+    "location": "Bay Area",
+    "email": "jilee2189@gmail.com",
+    "linkedin": "linkedin.com/in/yourprofile",
+    "specialties": [
+      "Python",
+      "Machine Learning",
+      "Statistical methods"
+    ],
+    "years_experience": "<1 year",
+    "education": [
+      {
+        "degree": "Master of Science in Analytics",
+        "institution": "Georgia Institute of Technology",
+        "year": "2026"
+      }
+    ]
+  }
