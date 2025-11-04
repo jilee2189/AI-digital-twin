@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Ji's Digital Twin",
   description: "An AI Career Twin representing Ji",
+  icons: { icon: "/icon.png" }, // ✅ add this line
 };
 
 export default function RootLayout({
